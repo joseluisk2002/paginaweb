@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Mapa del sitio para Google. Si se añaden páginas nuevas, añadirlas aquí. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.gtingenierias.es/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.gtingenierias.es/aviso-legal.html</loc>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://www.gtingenierias.es/privacidad.html</loc>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://www.gtingenierias.es/cookies.html</loc>
+    <priority>0.2</priority>
+  </url>
+</urlset>
